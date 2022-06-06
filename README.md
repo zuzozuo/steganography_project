@@ -1,6 +1,6 @@
 # steganography_project
 Python Implementation of  DCT, DWT and LSB  algorithms for embedding text message in images.
-The project was done for Securing Data Transmission subject.
+The project was done for Securing Data Transmission course.
 
 ## HOW TO launch the project
 - You need python 3.9 > installed on your enviroment.
