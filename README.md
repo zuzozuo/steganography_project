@@ -7,6 +7,8 @@ The project was done for Securing Data Transmission subject.
 - Launch your terminal
 - Go to the directory with the cloned repo
 - Type python main.py
+- 
+![notitle](https://user-images.githubusercontent.com/32846803/172250690-ad7197dd-86d6-4799-bb55-9acfa6838e26.png)
 
 ### What was done?
 - [x] LSB text message encoding
