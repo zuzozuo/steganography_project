@@ -2,7 +2,13 @@
 Python Implementation of  DCT, DWT and LSB  algorithms for embedding text message in images.
 The project was done for Securing Data Transmission subject.
 
-## What was done?
+## HOW TO launch the project
+- You need python 3.9 > installed on your enviroment.
+- Launch your terminal
+- Go to the directory with the cloned repo
+- Type python main.py
+
+### What was done?
 - [x] LSB text message encoding
 - [x] LSB text message decoding
 - [x] DWT text message encoding
