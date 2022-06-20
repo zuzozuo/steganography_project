@@ -25,6 +25,23 @@ The project was done for Securing Data Transmission course.
 
 Additionaly in DCT we tested if you can read embedded message before saving the image - it can be done.
 
+### RESULT IMAGES
+
+#### ORIGINAL PHOTO:
+
+
+![lenna](https://user-images.githubusercontent.com/32846803/174601527-72c64924-9866-4cb0-855f-6c85678a2d2b.jpg)
+
+#### encoded LSB
+![encoded_LSB](https://user-images.githubusercontent.com/32846803/174601632-43559b8d-102b-4f5c-9cdd-f5115499f8ee.png)
+
+#### encoded DCT
+![encoded_DCT](https://user-images.githubusercontent.com/32846803/174601697-35daa3cb-e7a8-48de-b645-94515fa1ccbb.png)
+
+#### encoded DWT
+
+![encoded_DWT](https://user-images.githubusercontent.com/32846803/174601705-5660b3f4-d5be-40b8-91ae-d94b0ae30a24.png)
+
 
 Authors:
 Zuzanna Dąbrowa, Marcin Maj, Bartosz Kowal
