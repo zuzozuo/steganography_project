@@ -42,6 +42,9 @@ Additionaly in DCT we tested if you can read embedded message before saving the 
 
 ![encoded_DWT](https://user-images.githubusercontent.com/32846803/174601705-5660b3f4-d5be-40b8-91ae-d94b0ae30a24.png)
 
+# PRESENTATION WITH THEORY AND DESCRIPTION OF ALGORITHMS 
+https://www.overleaf.com/project/6282acb885354179c97fb1f4
+
 
 Authors:
 Zuzanna Dąbrowa, Marcin Maj, Bartosz Kowal
